@@ -49,3 +49,10 @@ Review Video: https://youtu.be/tCN3pitdO5M
 ### Use with Fusion 360
 
 How to use Fusion 360 for Snapmaker CNC https://www.youtube.com/watch?v=RApOgdKsmnU
+
+### PCB Milling
+
+Video demo https://www.youtube.com/watch?v=wH-s_9NAW7c
+
+How to panelize the gerbers using flatcam for snapmaker use https://www.youtube.com/watch?v=1Ctp3FackBE
+
