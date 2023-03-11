@@ -54,5 +54,11 @@ How to use Fusion 360 for Snapmaker CNC https://www.youtube.com/watch?v=RApOgdKs
 
 Video demo https://www.youtube.com/watch?v=wH-s_9NAW7c
 
+solder mask application https://www.youtube.com/watch?v=eUreZ843-RY
+
 How to panelize the gerbers using flatcam for snapmaker use https://www.youtube.com/watch?v=1Ctp3FackBE
+
+Overview https://www.youtube.com/watch?v=DVzBxrBBU0I
+
+
 
