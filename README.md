@@ -46,6 +46,10 @@ Tools & supplies used in the lathe vids
 
 Review Video: https://youtu.be/tCN3pitdO5M
 
+### Flatcam
+
+Good PCB tutorial https://www.youtube.com/watch?v=--Cb11heuHc
+
 ### Use with Fusion 360
 
 How to use Fusion 360 for Snapmaker CNC https://www.youtube.com/watch?v=RApOgdKsmnU
