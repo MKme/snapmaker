@@ -60,5 +60,8 @@ How to panelize the gerbers using flatcam for snapmaker use https://www.youtube.
 
 Overview https://www.youtube.com/watch?v=DVzBxrBBU0I
 
+Detailed Flatcam use with snapmaker for pcbs  https://www.youtube.com/watch?v=tiDQzvkFzk8
+
+
 
 
