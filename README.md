@@ -45,3 +45,7 @@ Tools & supplies used in the lathe vids
 ### Full videos here:
 
 Review Video: https://youtu.be/tCN3pitdO5M
+
+### Use with Fusion 360
+
+How to use Fusion 360 for Snapmaker CNC https://www.youtube.com/watch?v=RApOgdKsmnU
