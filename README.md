@@ -50,6 +50,8 @@ Review Video: https://youtu.be/tCN3pitdO5M
 
 Good PCB tutorial https://www.youtube.com/watch?v=--Cb11heuHc
 
+How to do double sided in flatcam https://www.youtube.com/watch?v=8cGf6NvubFk
+
 ### Use with Fusion 360
 
 How to use Fusion 360 for Snapmaker CNC https://www.youtube.com/watch?v=RApOgdKsmnU
